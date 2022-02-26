@@ -1,7 +1,7 @@
 import React, {Component} from "react";
-import "./contact.css";
+import "./footer.css";
 
-export default class Contact extends Component {
+export default class Footer extends Component {
     render() {
         return (
             <div>

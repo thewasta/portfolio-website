@@ -1,7 +1,7 @@
 import React, {Component} from "react";
-import "./contact.css";
+import "./portfolio.css";
 
-export default class Contact extends Component {
+export default class Portfolio extends Component {
     render() {
         return (
             <div>

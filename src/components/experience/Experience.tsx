@@ -1,7 +1,6 @@
 import React, {Component} from "react";
-import "./contact.css";
 
-export default class Contact extends Component {
+export default class Experience extends Component {
     render() {
         return (
             <div>
